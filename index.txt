@@ -1,0 +1,9 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>GitOps JWSCalculator</title>
+</head>
+<body>
+  <a href="jnlp:http://localhost:8080/jwscalculator/jwscalculator.jnlp">Download jws and to run</a>
+</body>
+</html>
